@@ -1,7 +1,9 @@
 fun main(){    
-    print("Hello World")
-    println("Gabriel Tricerri")
-    println("Matheus Pierro")
-    println("Felipe Santiago")
-    println("Thiago")
+    
+    //Declarando variaveis 
+    var nome = "Thiago" //string
+    var capacidade = 7.5f //float
+    var inicial = 'T' //string
+
+    println("A squad chama $nome, capacidade $capacidade, e minha inicial $inicial")
 }
